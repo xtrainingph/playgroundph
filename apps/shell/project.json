@@ -13,7 +13,7 @@
         "polyfills": "apps/shell/src/polyfills.ts",
         "tsConfig": "apps/shell/tsconfig.app.json",
         "inlineStyleLanguage": "scss",
-        "assets": ["apps/shell/src/favicon.ico", "apps/shell/src/assets"],
+        "assets": ["apps/shell/src/favicon.ico", "apps/shell/src/assets", "apps/home/src/netlify.toml"],
         "styles": ["apps/shell/src/styles.scss"],
         "scripts": [],
         "customWebpackConfig": {
