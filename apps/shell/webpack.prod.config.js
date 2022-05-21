@@ -12,4 +12,8 @@ module.exports = withModuleFederation({
    *   ['app2', 'https://app2.example.com'],
    * ]
    */
+  remotes: [
+    ['shell', 'https://master--jade-pithivier-cfa39a.netlify.app'],
+    ['login', 'https://magenta-biscochitos-0848df.netlify.app'],
+  ]
 });
