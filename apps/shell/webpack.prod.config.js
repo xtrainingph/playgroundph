@@ -14,6 +14,6 @@ module.exports = withModuleFederation({
    */
   remotes: [
     ['shell', 'https://master--jade-pithivier-cfa39a.netlify.app'],
-    ['login', 'https://magenta-biscochitos-0848df.netlify.app'],
+    ['home', 'https://magenta-biscochitos-0848df.netlify.app'],
   ]
 });
